@@ -1,4 +1,4 @@
-package pkg
+package seo
 
 import (
 	"fmt"

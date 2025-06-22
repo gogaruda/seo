@@ -2,7 +2,7 @@
 
 ## Install
 ```
-go get github.com/gogaruda/seo@v1.0.0
+go get github.com/gogaruda/seo@v1.0.1
 ```
 
 ## Penggunaan
